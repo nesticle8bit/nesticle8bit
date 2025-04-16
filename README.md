@@ -1,54 +1,79 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=nesticle8bit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20developer%20&descAlignY=55&descAlign=66)
+## Hey there 👋, I'm [Julio Poveda!](https://github.com/nesticle8bit/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juliopoveda)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/jpvinyl.col/)
+[![Protonmail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?logo=protonmail&logoColor=white)](mailto:nesticle8bit@proton.me)
 
-- 🧙🏼‍♂️ I’m currently working on [Pixicity!](https://github.com/NESTicle/pixicity)
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nesticle&label=Profile%20views&color=0e75b6&style=flat" alt="nesticle" /> </p>
 
-- 📫 How to reach me *nesticle8bit@proton.me*
+<p>I am a Full Stack Developer with experience in UI development and microservices, currently contributing to projects at CDC 🚀</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+Like My Work?
+
+<a href="https://www.buymeacoffee.com/nesticle8bit" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45px" width="200px" ></a>
 
 ----------
 
-### 💼 Open source projects
+### Talking about Personal Stuff:
 
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-		  <td>
-        <a href="https://github.com/NESTicle/vinyl_catalog-frontend">
-          🎵 <b>Vinyl Catalog App</b>
-        </a>
-      </td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NESTicle/vinyl_catalog-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NESTicle/vinyl_catalog-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NESTicle/vinyl_catalog-frontend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NESTicle/vinyl_catalog-frontend?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-	    <td><a href="https://github.com/NESTicle/pixicity">
-		    👨‍💻 <b>Pixicity - Link Sharing System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NESTicle/pixicity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NESTicle/pixicity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NESTicle/pixicity?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NESTicle/pixicity?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-	    <td><a href="https://github.com/NESTicle/news_cms">📰 <b>Content Management System for News</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/NESTicle/news_cms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/NESTicle/news_cms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/NESTicle/news_cms?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/NESTicle/news_cms?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+- 🛠 &nbsp; I’m currently working with JS, TS, .NET
+- 🚀 &nbsp; I’m currently exploring Go
+- 💬 &nbsp; Ask me anything [here](https://github.com/nesticle8bit/nesticle8bit/issues/1)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: nesticle8bit@proton.me.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nesticle&label=Profile%20views&color=0e75b6&style=flat" alt="nesticle" /> </p>
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring cutting-edge technologies and turning ideas into powerful, scalable solutions.
+- 🎵 &nbsp; When I’m not coding, you’ll find me digging through vinyl crates or blasting black metal at full volume.
+
+### Languages and Tools:
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="30" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt="netcore"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://github.com/angular.png?size=40" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nesticle8bit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesticle8bit&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nesticle8bit&hide_border=true" />
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 11 Pro</li>
+	    <li><b>PC: </b> Master Race</li>
+  	    <li><b>Browser: </b> Vivaldi & Brave</li>
+	    <li><b>Terminal: </b> Powershell: Oh My Posh</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion, 1Password and Raindrop</li>
+	    <li><b>To Stay Updated:</b> Twitter, Product Hunt and Hacker News</li>
+	</ul>
+</details>
+
+#
+
+<div align="center">
+	
+#### Show some ❤️ by starring some of the repositories!
+
+</div>
