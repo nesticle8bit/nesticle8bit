@@ -53,8 +53,9 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=nesticle8bit)](https://git.io/streak-stats)
+    
 </details>
 
 <details>
