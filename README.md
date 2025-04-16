@@ -53,7 +53,8 @@ Like My Work?
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nesticle8bit&hide_border=true" />
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=nesticle8bit)](https://git.io/streak-stats)
 </details>
 
 <details>
