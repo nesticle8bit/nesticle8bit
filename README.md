@@ -20,7 +20,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with JS, TS, .NET
 - 🚀 &nbsp; I’m currently exploring Go
 - 💬 &nbsp; Ask me anything [here](https://github.com/nesticle8bit/nesticle8bit/issues/1)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 👾 &nbsp; Fun fact: `Array.sort()` Doesn't sort numbers correctly (*by default*).
 - 📫 &nbsp; Reach me out: nesticle8bit@proton.me.
 
 ### My Absolute Favorites:
